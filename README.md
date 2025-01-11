@@ -1,5 +1,5 @@
 # Theologos
-"Theologos": A Conversational Agent for Christian Education
+"Theologos": A Conversational Agent for Christian Education ( Personal Project )
 
 Theologos is an AI-powered chatbot designed to provide interactive and personalized Christian education. It leverages a combination of cutting-edge technologies:
 Large Language Models (LLMs): For natural language understanding, generation, and engaging conversation.
